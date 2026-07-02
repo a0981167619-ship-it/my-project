@@ -12,5 +12,6 @@ text3.pack()
 
 button=tk.Button(victory,text='增加',command=added)
 button.pack()
-
 victory.mainloop()
+
+
