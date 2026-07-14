@@ -5,3 +5,5 @@ print(example)
 file.write('123456')#直接寫入此檔案
 file.write('456789')
 file.close()
+
+
