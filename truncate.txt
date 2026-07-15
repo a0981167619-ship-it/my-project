@@ -1,1 +1,1 @@
-Nice to
+list=[1,2,
