@@ -22,7 +22,7 @@ kity=file1.read()
 print(kity)
 
 file1.seek(10)
-file1.write(b' prompt')
+file1.write(b'prompt')
 file1.seek(0)
 print(file1.read())
 file1.close()
