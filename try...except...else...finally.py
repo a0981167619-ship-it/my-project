@@ -37,7 +37,7 @@ except SyntaxWarning:
     print('Warning--語法錯誤')
 
 try:
-    fish=int(input('請輸入一種動物:'))
+    fish=int(input('請輸入一個整數:'))
     print('動物為{0}'.format(fish))
 except Exception:
     print('Error')
