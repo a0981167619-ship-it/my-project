@@ -20,5 +20,3 @@ file4.write('joker is a evil character')
 file5=open('78.empty.py','a')#用於追加此檔案內容
 file5.write('Yes,I think so too.')
 
-file6=open('empty.py','x')
-file6.write('It is original empty file')
